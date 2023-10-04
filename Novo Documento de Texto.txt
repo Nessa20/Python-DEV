@@ -1,0 +1,4 @@
+--> Criação de sites e sistemas
+--> Frameworks Python
+--> Desenvolvimento de um chat
+--> Frantend e Backend
